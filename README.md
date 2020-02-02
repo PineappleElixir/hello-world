@@ -1,2 +1,4 @@
-# hello-world
-Learning how to use Git!
+# hello-worldd
+
+Hi World!
+Just testing this out.
